@@ -1,5 +1,5 @@
 # Интернет-магазин кроссовок  WoBer
-![logo120](https://user-images.githubusercontent.com/58702589/137380796-130456ec-ddad-403d-a3b5-03672c7623d0.png)
+![image](https://user-images.githubusercontent.com/58702589/137381006-9aafcb58-9975-4a98-a77b-173af93fad3d.png)
 
 ---
 ### Общие сведения:
