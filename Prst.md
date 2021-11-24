@@ -36,6 +36,6 @@
 ![Для БД](https://user-images.githubusercontent.com/58702589/142248376-e0904478-c548-4202-b7e7-6d75cf3ca585.png)
 
 ### 3. Даталогическая модель
-![БД (1)](https://user-images.githubusercontent.com/58702589/142248913-eec8e58f-91e6-423e-8970-e199c15ed3b0.png)
+![BD](https://user-images.githubusercontent.com/58702589/143218602-b51fb782-e552-4d7c-901f-ab72e2d20a7d.png)
 
 
