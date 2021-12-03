@@ -85,6 +85,7 @@
 ![image](https://user-images.githubusercontent.com/58702589/144607215-8945e141-5e3b-459b-a42a-28b59c43b5f3.png)
 
 * ##### Профиль администратора (имеет дополнительно (1) и (2))
+![image](https://user-images.githubusercontent.com/58702589/144657461-de26910f-a4f6-4603-b83d-a2d6814a20d0.png)
 
 * ##### Список заказов **Пользователей**
 ![image](https://user-images.githubusercontent.com/58702589/144607416-b78b67fb-4079-491e-8c47-66c75e6d1b80.png)
@@ -96,9 +97,10 @@
 ![image](https://user-images.githubusercontent.com/58702589/144609778-8caf0ff1-a852-4b62-a3dc-fbcaae562605.png)
 
 * ##### Конкретная заявка на возврат (вид Администратора)
-![image](https://user-images.githubusercontent.com/58702589/144609832-cd949038-c6d6-4ddf-9527-c4ec9de1f803.png)
+![image](https://user-images.githubusercontent.com/58702589/144659169-938bfed8-483f-4d0c-a599-01264692e134.png)
 
 * ##### Форма отказа администратором по возврату
+![image](https://user-images.githubusercontent.com/58702589/144659840-9501ba9c-46ae-49e4-9ca2-7364c3d602e5.png)
 
 
 ### 3. Диаграмма пользовательских сценариев
