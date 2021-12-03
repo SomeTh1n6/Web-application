@@ -31,19 +31,33 @@
 ### 2. Эскизы основных страниц сайта (прототип)
 ---
 * ##### Главная страница
-![image](https://user-images.githubusercontent.com/58702589/144268568-7068f5bd-914d-44e5-80e0-668402c92e6d.png)
+![image](https://user-images.githubusercontent.com/58702589/144572112-8ecb648b-fa1e-4798-ace8-07f1bbc6c47b.png)
 
 * ##### Страница авторизации
+![image](https://user-images.githubusercontent.com/58702589/144572183-268fec4d-60c0-40c5-9442-6e82fe35efa3.png)
 
 * ##### Страница регистрации
+![image](https://user-images.githubusercontent.com/58702589/144572246-df8895e8-45bc-4289-95eb-ce4636910c58.png)
 
 * ##### Корзина
+![image](https://user-images.githubusercontent.com/58702589/144572412-eee1b193-7683-48ec-9b18-48a7e25f3cc1.png)
+
+![image](https://user-images.githubusercontent.com/58702589/144572439-a01bbd6a-ec8d-4e48-92d6-1c7f3ea92635.png)
 
 * ##### Страница с товарами, удовлетворяющими условиям поиска
+![image](https://user-images.githubusercontent.com/58702589/144572523-92c5ddf3-6ee4-4fc3-978e-79544b2a7f80.png)
+
+![image](https://user-images.githubusercontent.com/58702589/144572858-e1327c29-6368-4a3a-9584-e593193aabc2.png)
+
 
 * ##### Избранное
+![image](https://user-images.githubusercontent.com/58702589/144572574-616b8f13-bb52-4a8c-8d52-8b3defee68f6.png)
+
+![image](https://user-images.githubusercontent.com/58702589/144572765-b5410563-636b-43e6-be4a-46bf624a034d.png)
+
 
 * ##### Страница конкретного товара
+![image](https://user-images.githubusercontent.com/58702589/144572628-a3b4fd1a-394b-4536-a4d9-4cec9f6c25c5.png)
 
 * ##### Оформление заказа
 
