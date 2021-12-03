@@ -31,33 +31,32 @@
 ### 2. Эскизы основных страниц сайта (прототип)
 ---
 * ##### Главная страница
-![image](https://user-images.githubusercontent.com/58702589/144572112-8ecb648b-fa1e-4798-ace8-07f1bbc6c47b.png)
+![image](https://user-images.githubusercontent.com/58702589/144573182-b08ac1fc-242a-470e-9266-f7bdec49cfbc.png)
+
 
 * ##### Страница авторизации
-![image](https://user-images.githubusercontent.com/58702589/144572183-268fec4d-60c0-40c5-9442-6e82fe35efa3.png)
+![image](https://user-images.githubusercontent.com/58702589/144573208-a145a9dc-4f56-446d-a5ee-d21d28fd7f9b.png)
 
 * ##### Страница регистрации
-![image](https://user-images.githubusercontent.com/58702589/144572246-df8895e8-45bc-4289-95eb-ce4636910c58.png)
+![image](https://user-images.githubusercontent.com/58702589/144573240-116c20a2-3b3a-4bb5-8102-48fe51969894.png)
 
 * ##### Корзина
-![image](https://user-images.githubusercontent.com/58702589/144572412-eee1b193-7683-48ec-9b18-48a7e25f3cc1.png)
+![image](https://user-images.githubusercontent.com/58702589/144573272-4b0e41a7-f6dc-46ca-9b64-76f64f5b0dd1.png)
 
-![image](https://user-images.githubusercontent.com/58702589/144572439-a01bbd6a-ec8d-4e48-92d6-1c7f3ea92635.png)
+![image](https://user-images.githubusercontent.com/58702589/144573310-c2e9cd33-67b3-44ff-a4a3-85aa0bffe0d9.png)
 
 * ##### Страница с товарами, удовлетворяющими условиям поиска
-![image](https://user-images.githubusercontent.com/58702589/144572523-92c5ddf3-6ee4-4fc3-978e-79544b2a7f80.png)
+![image](https://user-images.githubusercontent.com/58702589/144573350-7f5c3d78-b776-457f-b296-2286edf9d5aa.png)
 
-![image](https://user-images.githubusercontent.com/58702589/144572858-e1327c29-6368-4a3a-9584-e593193aabc2.png)
-
+![image](https://user-images.githubusercontent.com/58702589/144573383-2ec0f05a-6322-4be4-892e-ef6b6293c093.png)
 
 * ##### Избранное
-![image](https://user-images.githubusercontent.com/58702589/144572574-616b8f13-bb52-4a8c-8d52-8b3defee68f6.png)
+![image](https://user-images.githubusercontent.com/58702589/144573417-60219fee-d460-445e-a414-4536b1c13948.png)
 
-![image](https://user-images.githubusercontent.com/58702589/144572765-b5410563-636b-43e6-be4a-46bf624a034d.png)
-
+![image](https://user-images.githubusercontent.com/58702589/144573450-5a527065-096b-4f04-810c-7747b1c6235d.png)
 
 * ##### Страница конкретного товара
-![image](https://user-images.githubusercontent.com/58702589/144572628-a3b4fd1a-394b-4536-a4d9-4cec9f6c25c5.png)
+![image](https://user-images.githubusercontent.com/58702589/144573502-6ce17d15-43d1-4df9-9537-62aab4b04f3f.png)
 
 * ##### Оформление заказа
 
