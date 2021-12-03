@@ -67,7 +67,7 @@
 ![image](https://user-images.githubusercontent.com/58702589/144653533-223a71af-eb0b-40f0-a4b8-258c2b7d2693.png)
 
 * ##### Отзывы на странице с конкретным товаром
-[image](https://user-images.githubusercontent.com/58702589/144653493-bee870fb-d705-469a-9385-ac0f7fdfac9a.png)
+![image](https://user-images.githubusercontent.com/58702589/144653493-bee870fb-d705-469a-9385-ac0f7fdfac9a.png)
 
 * ##### Страница возврата некачественного возврата
 ![image](https://user-images.githubusercontent.com/58702589/144604192-65da0dc2-bb04-4a08-9e26-cdad2b6e91fa.png)
