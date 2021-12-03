@@ -30,7 +30,6 @@
 * ##### Главная страница
 ![image](https://user-images.githubusercontent.com/58702589/144573182-b08ac1fc-242a-470e-9266-f7bdec49cfbc.png)
 
-
 * ##### Страница авторизации
 ![image](https://user-images.githubusercontent.com/58702589/144573208-a145a9dc-4f56-446d-a5ee-d21d28fd7f9b.png)
 
@@ -64,19 +63,23 @@
 * ##### Настройка профиля
 ![image](https://user-images.githubusercontent.com/58702589/144650310-5ba3426c-f1a7-499c-8e57-ff793a58ddc4.png)
 
-
 * ##### Форма оставления отзыва
+![image](https://user-images.githubusercontent.com/58702589/144653533-223a71af-eb0b-40f0-a4b8-258c2b7d2693.png)
 
 * ##### Отзывы на странице с конкретным товаром
+[image](https://user-images.githubusercontent.com/58702589/144653493-bee870fb-d705-469a-9385-ac0f7fdfac9a.png)
 
 * ##### Страница возврата некачественного возврата
 ![image](https://user-images.githubusercontent.com/58702589/144604192-65da0dc2-bb04-4a08-9e26-cdad2b6e91fa.png)
 
-* ##### Список заказов с приложенной информацией о нем (Заявки конкретного **Пользователя**)
+* ##### Список заказов (Заявки конкретного **Пользователя**)
+![image](https://user-images.githubusercontent.com/58702589/144653891-1482023a-15aa-4170-ad95-7f8273401d1b.png)
 
 * ##### Список заявок по возврату (Заявки конкретного **Пользователя**)
+![image](https://user-images.githubusercontent.com/58702589/144654358-1502befc-2af7-473c-bb9d-a9dc8ad9f1b2.png)
 
 * ##### Конкретный заказ вид **Пользователя**
+![image](https://user-images.githubusercontent.com/58702589/144654293-bba9ccea-4a16-4ec5-a885-00be24b25028.png)
 
 * ##### Конкретная заявка на возврат вид **Пользователя**
 ![image](https://user-images.githubusercontent.com/58702589/144607215-8945e141-5e3b-459b-a42a-28b59c43b5f3.png)
@@ -88,7 +91,6 @@
 
 * ##### Список заявок **Пользователей** на возврат
 * ![image](https://user-images.githubusercontent.com/58702589/144607618-0669c845-964b-4a0b-8668-d1363f4d5a4c.png)
-
 
 * ##### Конкретный заказ (вид Администратора)
 ![image](https://user-images.githubusercontent.com/58702589/144609778-8caf0ff1-a852-4b62-a3dc-fbcaae562605.png)
