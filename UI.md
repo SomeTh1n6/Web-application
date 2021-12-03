@@ -62,6 +62,8 @@
 ![image](https://user-images.githubusercontent.com/58702589/144604754-85c217bd-e3cc-4c29-93ac-29f19b16a8b3.png)
 
 * ##### Настройка профиля
+![image](https://user-images.githubusercontent.com/58702589/144650310-5ba3426c-f1a7-499c-8e57-ff793a58ddc4.png)
+
 
 * ##### Форма оставления отзыва
 
@@ -105,7 +107,7 @@
 ![Гость](https://user-images.githubusercontent.com/58702589/144587197-14b08c86-5da9-4a0c-a458-bfd0bba8ba23.png)
 
 * ##### Сценарий использования системы авторизированным пользователем (**Пользователь**)
-![Пользователь](https://user-images.githubusercontent.com/58702589/144600685-c521a739-9dee-4e5f-8152-a6a12efaa54b.png)
+![Пользователь](https://user-images.githubusercontent.com/58702589/144651078-54664ad3-ec50-420d-bd70-375792bb2a7b.png)
 
 * ##### Сценарий использования системы администратором (**Администратор**)
 ![Админ](https://user-images.githubusercontent.com/58702589/144603584-417954e2-82d6-47d5-ba7d-cdee00cbcd21.png)
