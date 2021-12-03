@@ -90,7 +90,7 @@
 ![image](https://user-images.githubusercontent.com/58702589/144607416-b78b67fb-4079-491e-8c47-66c75e6d1b80.png)
 
 * ##### Список заявок **Пользователей** на возврат
-* ![image](https://user-images.githubusercontent.com/58702589/144607618-0669c845-964b-4a0b-8668-d1363f4d5a4c.png)
+![image](https://user-images.githubusercontent.com/58702589/144607618-0669c845-964b-4a0b-8668-d1363f4d5a4c.png)
 
 * ##### Конкретный заказ (вид Администратора)
 ![image](https://user-images.githubusercontent.com/58702589/144609778-8caf0ff1-a852-4b62-a3dc-fbcaae562605.png)
